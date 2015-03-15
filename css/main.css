@@ -93,6 +93,9 @@ div[id="social_media"] {
 section[id="widgets"] div[class="float_right"] {
     margin: 0 6.9877899% auto auto;
 }
+section[id="widgets"] div[class="float_right"] p {
+    margin: 0;
+}
 div[id="social_media"] ul {
     padding: 0;
 }
