@@ -67,6 +67,7 @@ section[class="bio"] {
 section[class="bio"] p {
     width: 60%;
     line-height: 2em;
+    margin: 0;
 }
 footer p{
     width: 100%;
@@ -90,7 +91,10 @@ div[id="social_media"] {
     margin: 1.3445565% 20.26567% auto auto;
 }
 section[id="widgets"] div[class="float_right"] {
-    margin: 1.3445565% 6.9877899% auto auto;
+    margin: 0 6.9877899% auto auto;
+}
+section[id="widgets"] div[class="float_right"] p {
+    margin: 0;
 }
 div[id="social_media"] ul {
     padding: 0;
