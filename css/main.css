@@ -88,7 +88,7 @@ section[id="widgets"] {
     height: 100%;
 }
 div[id="social_media"] {
-    margin: 1.3445565% 20.26567% auto auto;
+    margin: 1.3445565% 3.06567% auto auto;
 }
 section[id="widgets"] div[class="float_right"] {
     margin: 0 6.9877899% auto auto;
@@ -98,4 +98,9 @@ section[id="widgets"] div[class="float_right"] p {
 }
 div[id="social_media"] ul {
     padding: 0;
+}
+div[id="social_media"] ul li {
+    display: inline;
+    margin-right: 10px;
+
 }
